@@ -58,7 +58,7 @@ The Excel file used in this project contains four worksheets:
 
 - `amazon_review_analysis.xlsx` – Complete workbook containing cleaned data, pivot tables, KPIs, and dashboard.
 
-- ![Dashboard Screenshot]()
+- ![Dashboard Screenshot](https://github.com/Analyze-with-Bukola/Amazon-Product-Review-Analysis/commit/739df6aefd1a6fb5fe12b5538b7f19869a345aea)
 
 ---
 
