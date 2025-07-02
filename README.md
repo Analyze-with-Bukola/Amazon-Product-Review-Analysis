@@ -3,7 +3,6 @@ My First project while taking classes on data analysis with the incubator hub.
 # Amazon Product Review Analysis
 
 This project presents an Excel-based data analysis of Amazon product reviews. As a Junior Data Analyst at RetailTech Insights (a fictional company), I was tasked with analyzing customer reviews and product performance data to extract insights that can inform product improvement, marketing strategies, and customer engagement.
-
 ---
 
 ## Project Objective
