@@ -58,6 +58,8 @@ The Excel file used in this project contains four worksheets:
 
 - `amazon_review_analysis.xlsx` – Complete workbook containing cleaned data, pivot tables, KPIs, and dashboard.
 
+- ![Dashboard Screenshot](PASTE_IMAGE_URL_HERE)
+
 ---
 
 ## Note
