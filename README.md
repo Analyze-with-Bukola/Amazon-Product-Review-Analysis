@@ -1,12 +1,12 @@
 # Amazon-Product-Review-Analysis
 My First project while taking classes on data analysis with the incubator hub.
-# 📦 Amazon Product Review Analysis
+# Amazon Product Review Analysis
 
 This project presents an Excel-based data analysis of Amazon product reviews. As a Junior Data Analyst at RetailTech Insights (a fictional company), I was tasked with analyzing customer reviews and product performance data to extract insights that can inform product improvement, marketing strategies, and customer engagement.
 
 ---
 
-## 🧠 Project Objective
+## Project Objective
 
 To analyze product and customer review data from Amazon in order to:
 
@@ -16,7 +16,7 @@ To analyze product and customer review data from Amazon in order to:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 The Excel file used in this project contains four worksheets:
 
@@ -34,7 +34,7 @@ The Excel file used in this project contains four worksheets:
 
 ---
 
-## 🛠️ Tools & Techniques Used
+## Tools & Techniques Used
 
 - **Microsoft Excel**
   - Pivot Tables
@@ -46,7 +46,7 @@ The Excel file used in this project contains four worksheets:
 
 ---
 
-## 📊 Key Insights (Sample)
+## Key Insights (Sample)
 
 - Most reviewed product categories
 - Average rating per product
@@ -55,12 +55,10 @@ The Excel file used in this project contains four worksheets:
 
 ---
 
-## 🧾 File
+## File
 
 - `amazon_review_analysis.xlsx` – Complete workbook containing cleaned data, pivot tables, KPIs, and dashboard.
 
----
+You can also find attached the [Dashboard Screenshot](https://github.com/Analyze-with-Bukola/Amazon-Product-Review-Analysis/blob/main/Dashboard%20Screenshot.png)
 
-## 📌 Note
-
-This project is part of a training case study for Excel-based product review analytics and is intended for learning and portfolio purposes only.
+This project is part of a training case study for Excel-based product review analytics.
